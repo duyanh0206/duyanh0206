@@ -12,7 +12,7 @@
 
 ### 💻 About Me
 
-- 🎯 **Current Focus:** Embedded C, C/C++, STM32 (bare-metal & HAL), building automotive-style portfolio projects (ECU monitoring, engine cooling system)
+- 🎯 **Current Focus:** Current Focus: Learning and building projects with Embedded C, C/C++, and basic Microcontroller Programming.
 - 📚 **Learning Next:** AUTOSAR, UART/SPI/I2C/CAN communication, MISRA-C, Embedded Linux
 - 🤝 **Open to:** Fresher Embedded Software Developer roles in the automotive domain
 - 🌏 **Goal:** Growing toward opportunities with Japanese automotive/embedded companies
